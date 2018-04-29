@@ -42,11 +42,11 @@ We currently are heavy on SQL and Excel for our analysis however recently we’v
 
 **As a data analyst in Fave you'll experience the following buzzwords and more**
 
-```Data Analyst``` ```Data Storytelling``` ```Vizualization``` ```SQL```  ```Postgres``` ```Business Dashboard``` ```Python``` ```R``` ```Jupyter Notebook``` ```User Persona``` ```Customer Churn``` ```Clevertap``` ```Excel``` ```Google Analytics``` ```Cohort Analysis Heatmap```
+```Data Analyst``` ```Data Storytelling``` ```Vizualization``` ```SQL```  ```Postgres``` ```Business Dashboard``` ```Python``` ```R``` ```Jupyter Notebook``` ```User Persona``` ```Machine Learning``` ```Data Science``` ```Customer Churn``` ```Clevertap``` ```Excel``` ```Google Analytics``` ```Cohort Analysis Heatmap```
 
 ## It's ok if you don't know these things. But, it's absolutely essential that you are interested and willing to learn them.
 
-## [I WANT TO BE AN ANALYST](/another-page)
+## [I WANT TO BE AN ANALYST](/interested)
 
 **Engineer**
 
@@ -66,11 +66,11 @@ We’re currently on a semi-traditional data warehousing architecture but are in
 
 **As a data engineer in Fave you'll experience the following buzzwords and more**
 
-```Data Engineer``` ```Data Warehousing``` ```Data Lake``` ```SQL```  ```Postgres``` ```Redshift``` ```Python``` ```Automation``` ```Jupyter Notebook``` ```Benchmarking``` ```Streaming/Batch Processing``` ```ETL/ELT``` ```Hevo Data``` ```APIs``` ```Data Mining``` ```Data Cleansing``` ```S3``` ```Kinesis``` ```Redshift Spectrum``` ```Ingestion```
+```Data Engineer``` ```AWS``` ```Data Warehousing``` ```Data Lake``` ```SQL```  ```Postgres``` ```Redshift``` ```GCP``` ```Python``` ```Automation``` ```Jupyter Notebook``` ```Benchmarking``` ```Streaming/Batch Processing``` ```ETL/ELT``` ```Hevo Data``` ```APIs``` ```Data Mining``` ```Data Cleansing``` ```S3``` ```Kinesis``` ```Redshift Spectrum``` ```Ingestion```
 
 ## Don't worry, the engineer in our team didn't know most of the things up there. But if you're interested and willing to show that interest in your work, you're pretty much who we're looking for.
 
-## [I WANT TO BE AN ENGINEER](/another-page)
+## [I WANT TO BE AN ENGINEER](/interested)
 
 # Salary
 
@@ -97,7 +97,7 @@ The salary like any other job depends on your experience and what you can bring 
 - We work hard and play extra hard
 - We are called FBI
 
-## [JOIN FAVE NOW](/another-page)
+## [JOIN FAVE NOW](/interested)
 
 ![FBI](/assets/images/fbiii.png)
 
