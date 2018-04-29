@@ -58,7 +58,7 @@ In the beningging you will very much be an analyst but eventually you'll come to
 
 - Writing automation and testing scripts for various tasks including database managements
 
-- Architecting table/database design and entire data infrastructure when necessary
+- Architecting table/database design and data infrastructure when necessary
 
 **What You Can Expect Soon**
 
@@ -74,7 +74,7 @@ We’re currently on a semi-traditional data warehousing architecture but are in
 
 # Salary
 
-The salary like any other job depends on your experience and what you can bring to the table. Below is what an ideal skillset would look like. Even if you don't have them but fit the description mentioned in the TL;DR, [apply](/another-page). However, the more of the points you know and the better you know them, the higher chances of a higher salary. Don't worry though, we are very fair and understanding.
+The salary like any other job depends on your experience and what you can bring to the table. Below is what an ideal skillset would look like. Even if you don't have them but fit the description mentioned in the TL;DR, just [apply](/another-page). However, the more of the points you know and the better you know them, the higher chances of a higher salary. Don't worry though, we are very fair and understanding.
 
 **Analyst** (RM 3-5k)
 - Statistics
