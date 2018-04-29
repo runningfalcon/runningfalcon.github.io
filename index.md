@@ -40,7 +40,7 @@ We are mainly looking for junior roles but if you’re interested in a more seni
 
 We currently are heavy on SQL and Excel for our analysis however recently we’ve started to adpot Python/R. If you have done actual analysis on Jupyter notebooks you’ll be one of the pioneering members of the team as we expand on it. We’ve also started experimenting various machine learning techniques to incorporate into our analytics workflow i.e. feature engineering/modelling, NLP, various clustering/classifications, etc
 
-**As a data analyst in Fave you'll experience these buzzwords and more**
+**As a data analyst in Fave you'll experience the following buzzwords and more**
 
 ```Data Analyst``` ```Data Storytelling``` ```Vizualization``` ```SQL```  ```Postgres``` ```Business Dashboard``` ```Python``` ```R``` ```Jupyter Notebook``` ```User Persona``` ```Customer Churn``` ```Clevertap``` ```Excel``` ```Google Analytics``` ```Cohort Analysis Heatmap```
 
@@ -64,7 +64,7 @@ In the beningging you will very much be an analyst but eventually you'll come to
 
 We’re currently on a semi-traditional data warehousing architecture but are in the post-planning phases of adopting a more robust data lake/streaming architecture. So if you like the sound of delving into new technologies and migrating into the bleeding edge, this might be the job for you.
 
-**As a data engineer in Fave you'll experience these buzzwords and more**
+**As a data engineer in Fave you'll experience the following buzzwords and more**
 
 ```Data Engineer``` ```Data Warehousing``` ```Data Lake``` ```SQL```  ```Postgres``` ```Redshift``` ```Python``` ```Automation``` ```Jupyter Notebook``` ```Benchmarking``` ```Streaming/Batch Processing``` ```ETL/ELT``` ```Hevo Data``` ```APIs``` ```Data Mining``` ```Data Cleansing``` ```S3``` ```Kinesis``` ```Redshift Spectrum``` ```Ingestion```
 
