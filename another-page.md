@@ -2,6 +2,6 @@
 layout: default
 ---
 
-## just email [aiyas@myfave.com]() lol
+## email [data@myfave.com]() with your Resume/CV
 
 [back](./)

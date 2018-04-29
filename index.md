@@ -6,7 +6,7 @@ layout: default
 
 # TL;DR
 
-If have dabbled with programming especially in SQL/Python/R ***OR*** have experience in data analysis (can even be with Google Sheets) ***AND*** have an interest in the data/data science ecosystems, then send your Resume/CV to [aiyas@myfave.com]()
+If have dabbled with programming especially in SQL/Python/R ***OR*** have experience in data analysis (can even be with Google Sheets) ***AND*** have an interest in the data/data science ecosystems, then send your Resume/CV to [data@myfave.com]()
 
 If not, you might still want to read on :)
 
@@ -26,7 +26,7 @@ We are mainly looking for junior roles but if you’re interested in a more seni
 
 # Day-to-day
 
-**Before you read on,** know that you do not need to be masters of the craft or have significant experience in the following things you are about to read, it would definitely help but what would help even more is your willingness to learn, adapt and how much interest you have.
+**Before you read on**, know that you do not need to be masters of the craft or have significant experience in the following things you are about to read, it would definitely help but what would help even more is your willingness to learn, adapt and how much interest you have.
 
 **Analyst**
 
@@ -68,13 +68,13 @@ We’re currently on a semi-traditional data warehousing architecture but are in
 
 ```Data Engineer``` ```Data Warehousing``` ```Data Lake``` ```SQL```  ```Postgres``` ```Redshift``` ```Python``` ```Automation``` ```Jupyter Notebook``` ```Benchmarking``` ```Streaming/Batch Processing``` ```ETL/ELT``` ```Hevo Data``` ```APIs``` ```Data Mining``` ```Data Cleansing``` ```S3``` ```Kinesis``` ```Redshift Spectrum``` ```Ingestion```
 
-## Don't worry, the engineer in our team didn't know most of the things up there. But if you're interested and willing to show that intest in your work, you're pretty much who we're looking for.
+## Don't worry, the engineer in our team didn't know most of the things up there. But if you're interested and willing to show that interest in your work, you're pretty much who we're looking for.
 
 ## [I WANT TO BE AN ENGINEER](/another-page)
 
 # Salary
 
-The salary like any other job depends on your experience and what you can bring to the table. Below is what an ideal skillset would look like. The more of the points you know and the better you know them, the higher chances of a higher salary
+The salary like any other job depends on your experience and what you can bring to the table. Below is what an ideal skillset would look like. Even if you don't have them but fit the description mentioned in the TL;DR, [apply](/another-page). However, the more of the points you know and the better you know them, the higher chances of a higher salary. Don't worry though, we are very fair and understanding.
 
 **Analyst** (RM 3-5k)
 - Statistics
