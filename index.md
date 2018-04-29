@@ -26,7 +26,7 @@ We are mainly looking for junior roles but if you’re interested in a more seni
 
 # Day-to-day
 
-**Before you read on**, know that you do not need to be masters of the craft or have significant experience in the following things you are about to read, it would definitely help but what would help even more is your willingness to learn, adapt and how much interest you have.
+**Before you read on**, know that you do not need to be masters of the craft or have significant experience in the following things you are about to read, it would definitely help but what would help even more is your interest and willingness to learn, adapt & execute.
 
 **Analyst**
 
