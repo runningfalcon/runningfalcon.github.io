@@ -1,3 +1,11 @@
-theme: jekyll-theme-slate
+# basic options
 title: Fave Data Team is Hiring
-# description: Most of the information and job scope regarding Fave Data team and the job scope is here
+author: Aiyas
+email: aiyas@myfave.com
+description: Job Scope
+twitter_username: ayswl
+github_username:  ayswl
+
+# Build settings
+markdown: kramdown
+theme: jekyll-theme-slate
