@@ -16,7 +16,7 @@ If not, you might still want to read on :)
 
 The business intelligence team is the heart of data in the organization. We provide all the metrics, insights and reporting/dashboarding required for Fave to run and grow. We handle data flow end-to-end from gathering data from different sources all the way to turning that data into insights the business can take action on.
 
-# Roles We Are Looking For
+# We Are Looking For
 
 1. **Analysts** with the interest of becoming Scientists 
 
