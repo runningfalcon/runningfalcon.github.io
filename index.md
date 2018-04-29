@@ -6,9 +6,9 @@ layout: default
 
 # TL;DR
 
-If you know SQL/Python/R **OR** have experience in data analysis (can even be with Google Sheets) **OR** have dabbled with programming **AND** have a interest in getting an analyst/engineering role in the data ecosystem. Send your Resume/CV to [aiyas@myfave.com]()
+If have dabbled with programming especially in SQL/Python/R ***OR*** have experience in data analysis (can even be with Google Sheets) ***AND*** have an interest in the data/data science ecosystems, then send your Resume/CV to [aiyas@myfave.com]()
 
-If you don't, you might still want to read on :)
+If you have not, you might still want to read on :)
 
 ![FBI](/assets/images/fbi.png)
 
@@ -20,34 +20,35 @@ The business intelligence team is the heart of data in the organization. We prov
 
 1. **Analysts** with the interest of becoming Scientists 
 
-2. **Engineers** with the interest in the data ecosystem
+2. **Engineers** with interests in the data ecosystem
 
 We are mainly looking for junior roles but if you’re interested in a more senior role do also let us know, we have different job scopes for you.
 
-# Day-to-day and Beyond
+# Day-to-day
 
 Before you read on, know that you do not need to be masters of the craft or have significant experience in the following things you are about to read, it would definitely help but what would help even more is your willingness to learn, adapt and how much interest you have.
 
 **Analyst**
 
-- Lias with different departments in over 3 countries and 15 cities of the business to ensure their KPIs are able to be tracked and provide dashboards/reports necessary to give visibility of growth
+- Lias with many different departments (Marketing, Finance, Product, etc) in 3 countries to ensure their KPIs are able to be tracked and provide dashboards/reports necessary to give visibility of growth
 
-- Provide insights and deep dive on problems using data as your ammunition
+- Provide insights and deep dive on issues/questions that the business may have
 
-- Perform various analysis and provide visualizations in order to craft a story and 
-
-- Tools you might be using include Google Sheets, Excel, SQL, Python, R, [Holistics](https://holistics.io), Google Analytics, Clevertap, Jupyter Notebook, Powerpoint, etc
+- Perform various analysis to answer business needs as well as to drive the businesses growth 
 
 **What You Can Expect Soon**
 
-We currently are heavy on SQL and Excel for our analysis however we’ve recently started adopting Python/R. If you have done actual analysis on Jupyter notebooks/lab you’ll be one of the pioneering members of the team as we expand on it. We’ve also started experimenting various machine learning techniques to incorporate into our analytics workflow i.e. feature engineering/modelling, NLP, various clustering/classifications, etc
+We currently are heavy on SQL and Excel for our analysis however we’ve recently started adopting Python/R. If you have done actual analysis on Jupyter notebooks you’ll be one of the pioneering members of the team as we expand on it. We’ve also started experimenting various machine learning techniques to incorporate into our analytics workflow i.e. feature engineering/modelling, NLP, various clustering/classifications, etc
 
 **As a data analyst in Fave you'll experience these buzzwords and more**
-```Data Analyst``` ```Data Storytelling``` ```Vizualization``` ```SQL```  ```Postgres``` ```Business Dashboard``` ```Python``` ```R``` ```Jupyter Notebook``` ```User Persona``` ```Customer Segmentation``` ```Clevertap``` ```Trend Analysis``` ```Scripting```
 
-## [JOIN NOW]()
+```Data Analyst``` ```Data Storytelling``` ```Vizualization``` ```SQL```  ```Postgres``` ```Business Dashboard``` ```Python``` ```R``` ```Jupyter Notebook``` ```User Persona``` ```Customer Churn``` ```Clevertap``` ```Excel``` ```Google Analytics``` ```Cohort Analysis Heatmap```
+
+## It's ok if you don't know these things. But, it's absolutely essential that you are interested and willing to learn them.
 
 **Engineer**
+
+In the beningging you will very much be an analyst, however, eventually come to do the following
 
 - Handle the data life cycle end-to-end from ingestion all the way to consumption
 
@@ -59,16 +60,17 @@ We currently are heavy on SQL and Excel for our analysis however we’ve recentl
 
 **What You Can Expect Soon**
 
-We’re currently on a semi-traditional data warehousing architecture but are in the post-planning phases of adopting a more robust data lake/streaming architecture. So if you like delving into new technologies, work with APIs and are excited working with different data structures and constructs 
+We’re currently on a semi-traditional data warehousing architecture but are in the post-planning phases of adopting a more robust data lake/streaming architecture. So if you like the sound of delving into new technologies and migrating into the bleeding edge, this might be the job for you.
 
-### As a data engineer in Fave you'll experience these buzzwords and more 
+**As a data engineer in Fave you'll experience these buzzwords and more**
+
 ```Data Engineer``` ```Data Warehousing``` ```Data Lake``` ```SQL```  ```Postgres``` ```Redshift``` ```Python``` ```Automation``` ```Jupyter Notebook``` ```Benchmarking``` ```Streaming/Batch Processing``` ```ETL/ELT``` ```Hevo Data``` ```APIs``` ```Data Mining``` ```Data Cleansing``` ```S3``` ```Kinesis``` ```Redshift Spectrum```
 
-## [JOIN NOW]()
+## [JOIN NOW](/another-page)
 
-# Summary and Salary
+# Salary
 
-The salary like any other job depends on your experience and what you can bring to the table. Below is what you would get paid and the more of those points you know well the higher chances of a higher salary
+The salary like any other job depends on your experience and what you can bring to the table. Below is what an ideal skillset would look like. The more of the points you know and the better you know them, the higher chances of a higher salary
 
 **Analyst** (RM 3-5k)
 - Statistics
@@ -81,3 +83,18 @@ The salary like any other job depends on your experience and what you can bring 
 - API Development
 - Data Science or Data Engineering/AI experiences (Bonus)
 
+# FAQ & Misc
+
+- Fresh graduates are welcomed to apply
+- Jobs are opened for both local and foreign talents
+- There are currently five people in the team
+- Work culture? Check out the posts ([1](https://www.linkedin.com/in/elvish-sew-poi-ling-%E8%90%A7%E7%90%A3%E9%9C%96-6a5a6627/detail/recent-activity/shares/)) ([2](https://www.linkedin.com/in/chyeoh/detail/recent-activity/shares/)) ([3](https://www.linkedin.com/in/sufianrosli/detail/recent-activity/shares/)) ([4](https://www.linkedin.com/in/audrapakalnyte/detail/recent-activity/shares/)) ([5](https://www.linkedin.com/in/maryjaneolores/detail/recent-activity/shares/)) by some of the Fave peeps
+- The age of the team has a Mode of 31, Median of 25 and Mean of 27
+- We work hard and play extra hard
+- We are called FBI
+
+![FBI](/assets/images/fbiii.png)
+
+## [JOIN NOW](/another-page)
+
+![FBI](/assets/images/fbiib.png)
