@@ -4,11 +4,11 @@ layout: default
 
 <!-- ## [Fave](http://careers.myfave.com/) Business Intelligence (Data) Team is Hiring! -->
 
-<!-- # TL;DR
+# TL;DR
 
 If you know SQL/Python/R **OR** have experience in data analysis (can even be with Google Sheets) **OR** have dabbled with programming **AND** have a interest in getting an analyst/engineering role in the data ecosystem. Send your Resume/CV to [aiyas@myfave.com]()
 
-If you don't, you might still want to read on :) -->
+If you don't, you might still want to read on :)
 
 ![FBI](/assets/images/fbi.png)
 
