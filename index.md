@@ -8,13 +8,13 @@ layout: default
 
 If have dabbled with programming especially in SQL/Python/R ***OR*** have experience in data analysis (can even be with Google Sheets) ***AND*** have an interest in the data/data science ecosystems, then send your Resume/CV to [aiyas@myfave.com]()
 
-If you have not, you might still want to read on :)
+If not, you might still want to read on :)
 
 ![FBI](/assets/images/fbi.png)
 
 # What We Do
 
-The business intelligence team is the heart of data in the organization. We provide all the metrics, insights and reporting/dashboarding required for Fave to run and grow. We handle data flow end-to-end from ingestion all the way to turning the data into insights that the business can take action on.
+The business intelligence team is the heart of data in the organization. We provide all the metrics, insights and reporting/dashboarding required for Fave to run and grow. We handle data flow end-to-end from gathering data from different sources all the way to turning that data into insights the business can take action on.
 
 # Roles We Are Looking For
 
@@ -26,7 +26,7 @@ We are mainly looking for junior roles but if you’re interested in a more seni
 
 # Day-to-day
 
-Before you read on, know that you do not need to be masters of the craft or have significant experience in the following things you are about to read, it would definitely help but what would help even more is your willingness to learn, adapt and how much interest you have.
+**Before you read on,** know that you do not need to be masters of the craft or have significant experience in the following things you are about to read, it would definitely help but what would help even more is your willingness to learn, adapt and how much interest you have.
 
 **Analyst**
 
@@ -38,7 +38,7 @@ Before you read on, know that you do not need to be masters of the craft or have
 
 **What You Can Expect Soon**
 
-We currently are heavy on SQL and Excel for our analysis however we’ve recently started adopting Python/R. If you have done actual analysis on Jupyter notebooks you’ll be one of the pioneering members of the team as we expand on it. We’ve also started experimenting various machine learning techniques to incorporate into our analytics workflow i.e. feature engineering/modelling, NLP, various clustering/classifications, etc
+We currently are heavy on SQL and Excel for our analysis however recently we’ve started to adpot Python/R. If you have done actual analysis on Jupyter notebooks you’ll be one of the pioneering members of the team as we expand on it. We’ve also started experimenting various machine learning techniques to incorporate into our analytics workflow i.e. feature engineering/modelling, NLP, various clustering/classifications, etc
 
 **As a data analyst in Fave you'll experience these buzzwords and more**
 
@@ -46,9 +46,11 @@ We currently are heavy on SQL and Excel for our analysis however we’ve recentl
 
 ## It's ok if you don't know these things. But, it's absolutely essential that you are interested and willing to learn them.
 
+## [I WANT TO BE AN ANALYST](/another-page)
+
 **Engineer**
 
-In the beningging you will very much be an analyst, however, eventually come to do the following
+In the beningging you will very much be an analyst but eventually you'll come to do the following
 
 - Handle the data life cycle end-to-end from ingestion all the way to consumption
 
@@ -64,9 +66,11 @@ We’re currently on a semi-traditional data warehousing architecture but are in
 
 **As a data engineer in Fave you'll experience these buzzwords and more**
 
-```Data Engineer``` ```Data Warehousing``` ```Data Lake``` ```SQL```  ```Postgres``` ```Redshift``` ```Python``` ```Automation``` ```Jupyter Notebook``` ```Benchmarking``` ```Streaming/Batch Processing``` ```ETL/ELT``` ```Hevo Data``` ```APIs``` ```Data Mining``` ```Data Cleansing``` ```S3``` ```Kinesis``` ```Redshift Spectrum```
+```Data Engineer``` ```Data Warehousing``` ```Data Lake``` ```SQL```  ```Postgres``` ```Redshift``` ```Python``` ```Automation``` ```Jupyter Notebook``` ```Benchmarking``` ```Streaming/Batch Processing``` ```ETL/ELT``` ```Hevo Data``` ```APIs``` ```Data Mining``` ```Data Cleansing``` ```S3``` ```Kinesis``` ```Redshift Spectrum``` ```Ingestion```
 
-## [JOIN NOW](/another-page)
+## Don't worry, the engineer in our team didn't know most of the things up there. But if you're interested and willing to show that intest in your work, you're pretty much who we're looking for.
+
+## [I WANT TO BE AN ENGINEER](/another-page)
 
 # Salary
 
@@ -93,8 +97,8 @@ The salary like any other job depends on your experience and what you can bring 
 - We work hard and play extra hard
 - We are called FBI
 
-![FBI](/assets/images/fbiii.png)
+## [JOIN FAVE NOW](/another-page)
 
-## [JOIN NOW](/another-page)
+![FBI](/assets/images/fbiii.png)
 
 ![FBI](/assets/images/fbiib.png)
