@@ -20,7 +20,7 @@ The business intelligence team is the heart of data in the organization. We prov
 
 1. **Analysts** with the interest of becoming Scientists 
 
-2. **Engineers** with interests in the data ecosystem
+2. **Engineers** with interests in the data science ecosystem
 
 We are mainly looking for junior roles but if you’re interested in a more senior role do also let us know, we have different job scopes for you.
 
