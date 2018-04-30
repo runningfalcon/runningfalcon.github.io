@@ -92,7 +92,7 @@ The salary like any other job depends on your experience and what you can bring 
 - Fresh graduates are welcomed to apply
 - Jobs are opened for both local and foreign talents
 - There are currently five people in the team, we're only hiring **two** for now
-- Work culture? Check out the posts ([1](https://www.linkedin.com/in/elvish-sew-poi-ling-%E8%90%A7%E7%90%A3%E9%9C%96-6a5a6627/detail/recent-activity/shares/)) ([2](https://www.linkedin.com/in/chyeoh/detail/recent-activity/shares/)) ([3](https://www.linkedin.com/in/sufianrosli/detail/recent-activity/shares/)) ([4](https://www.linkedin.com/in/audrapakalnyte/detail/recent-activity/shares/)) ([5](https://www.linkedin.com/in/maryjaneolores/detail/recent-activity/shares/)) by some of the Fave peeps
+- Work culture? Check out the LinkedIn posts ([Elvish](https://www.linkedin.com/in/elvish-sew-poi-ling-%E8%90%A7%E7%90%A3%E9%9C%96-6a5a6627/detail/recent-activity/shares/)) ([Chen Chow](https://www.linkedin.com/in/chyeoh/detail/recent-activity/shares/)) ([Ian](https://www.linkedin.com/in/sufianrosli/detail/recent-activity/shares/)) ([Audra](https://www.linkedin.com/in/audrapakalnyte/detail/recent-activity/shares/)) ([Mary](https://www.linkedin.com/in/maryjaneolores/detail/recent-activity/shares/)) by some of the Fave peeps
 - The age of the team has a Mode of 31, Median of 25 and Mean of 27
 - We work hard and play extra hard
 - We are called FBI
