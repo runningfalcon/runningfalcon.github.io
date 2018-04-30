@@ -38,7 +38,7 @@ We are mainly looking for junior roles but if you’re interested in a more seni
 
 **What You Can Expect Soon**
 
-We are heavy on SQL and Excel for our analysis however recently we’ve started to adpot Python/R. If you have done actual analysis on Jupyter Notebooks you’ll be one of the pioneering members of the team as we expand on it. We’ve also started experimenting various machine learning techniques to incorporate into our analytics workflow i.e. feature engineering/modelling, NLP, various clustering/classifications, etc
+We are heavy on SQL and Excel for our analysis however recently we’ve started to adopt Python/R. If you have done actual analysis on Jupyter Notebooks you’ll be one of the pioneering members of the team as we expand on it. We’ve also started experimenting various machine learning techniques to incorporate into our analytics workflow i.e. feature engineering/modelling, NLP, various clustering/classifications, etc
 
 **As a data analyst in Fave you'll experience the following buzzwords and more**
 
