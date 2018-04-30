@@ -50,7 +50,7 @@ We are heavy on SQL and Excel for our analysis however recently we’ve started 
 
 **Engineer**
 
-In the beningging you will very much be an analyst but eventually you'll come to do the following
+In the beginning you will very much be an analyst but eventually you'll come to do the following
 
 - Handle the data life cycle end-to-end from ingestion all the way to consumption
 
