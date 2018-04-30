@@ -46,7 +46,7 @@ We are heavy on SQL and Excel for our analysis however recently we’ve started 
 
 ## It's ok if you don't know these things. But, it's absolutely essential that you are interested and willing to learn them.
 
-## [I WANT TO BE AN ANALYST](/interested)
+[I WANT TO BE AN ANALYST](/interested){: class="cta"}
 
 **Engineer**
 
@@ -70,7 +70,7 @@ We’re currently on a semi-traditional data warehousing architecture but are in
 
 ## Don't worry, the engineer in our team didn't know most of the things up there. But if you're interested and willing to show that interest in your work, you're pretty much who we're looking for.
 
-## [I WANT TO BE AN ENGINEER](/interested)
+[I WANT TO BE AN ENGINEER](/interested){: class="cta"}
 
 # Salary
 
@@ -97,7 +97,7 @@ The salary like any other job depends on your experience and what you can bring 
 - We work hard and play extra hard
 - We are called FBI
 
-## [JOIN FAVE NOW](/interested)
+[JOIN FAVE NOW](/interested){: class="cta"}
 
 ![FBI](/assets/images/fbiii.png)
 
