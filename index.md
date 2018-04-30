@@ -6,7 +6,7 @@ layout: default
 
 # TL;DR
 
-If you have dabbled with programming especially in SQL/Python/R ***OR*** have experience in any data analysis (can even be with Google Sheets) ***AND*** have an interest in the data science ecosystem, then send your Resume/CV/Portfolio to [data@myfave.com]()
+If you have dabbled with programming especially in SQL/Python/R ***OR*** have experience in any data analysis (can even be with Google Sheets) ***AND*** have an interest in the data science ecosystem, then send your Resume/CV/Portfolio to [careers@myfave.com]()
 
 If not, you might still want to read on :)
 
@@ -76,13 +76,13 @@ We’re currently on a semi-traditional data warehousing architecture but are in
 
 The salary like any other job depends on your experience and what you can bring to the table. Below is what an ideal skillset would look like. Even if you don't have them but fit the description mentioned in the TL;DR, just [apply](/interested). However, the more of the points you know and the better you know them, the higher chances of a higher salary. Don't worry though, we are very fair and understanding.
 
-**Analyst** (RM 3-5k)
+**Analyst**
 - Statistics
 - SQL
 - Excel
 - Python/R (Bonus)
 
-**Engineer** (RM 3-6k)
+**Engineer**
 - Python
 - API Development
 - Data Science or Data Engineering/AI experiences (Bonus)
