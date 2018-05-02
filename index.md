@@ -6,7 +6,7 @@ layout: default
 
 # TL;DR
 
-If you have dabbled with programming especially in SQL/Python/R ***OR*** have experience in any data analysis (can even be with Google Sheets) ***AND*** have an interest in the data science ecosystem, then send your Resume/CV/Portfolio to [careers@myfave.com]() and cc [amos@myfave.com]()
+If you have dabbled with programming especially in SQL/Python/R ***OR*** have experience in any data analysis (can even be with Google Sheets) ***AND*** have an interest in the data science ecosystem, then send your Resume/CV/Portfolio to [amos@myfave.com]()
 
 If not, you might still want to read on :)
 
