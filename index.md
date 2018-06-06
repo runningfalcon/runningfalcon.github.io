@@ -32,17 +32,17 @@ We are mainly looking for junior roles but if you’re interested in a more seni
 
 - Lias with many different departments (Marketing, Finance, Product, etc) in 3 countries to ensure their KPIs are able to be tracked and provide dashboards/reports necessary to give visibility of growth
 
-- Provide insights and deep dive on issues/questions that the business may have
+- Provide insights and deep dive on issues/questions the business may have
 
-- Perform various analysis to answer business needs as well as to drive the businesses growth 
+- Perform various analyses to answer business needs as well as to drive growth to the business
 
 **What You Can Expect Soon**
 
-We are heavy on SQL and Excel for our analysis however recently we’ve started to adopt Python/R. If you have done actual analysis on Jupyter Notebooks you’ll be one of the pioneering members of the team as we expand on it. We’ve also started experimenting various machine learning techniques to incorporate into our analytics workflow i.e. feature engineering/modelling, NLP, various clustering/classifications, etc
+We are heavy on SQL and Excel for our analyses however recently we’ve started to adopt more Python/R. If you have done actual analysis on Jupyter/Zeppelin Notebooks you’ll be one of the pioneering members of the team as we expand on it. We’ve also started experimenting various machine learning techniques to incorporate into our analytics workflow i.e. feature engineering/modelling, NLP, various clustering/classifications, etc
 
 **As a data analyst in Fave you'll experience the following buzzwords and more**
 
-```Data Analyst``` ```Data Storytelling``` ```Vizualization``` ```SQL```  ```Postgres``` ```Business Dashboard``` ```Python``` ```R``` ```Jupyter Notebook``` ```User Persona``` ```Machine Learning``` ```Data Science``` ```Customer Churn``` ```Clevertap``` ```Excel``` ```Google Analytics``` ```Cohort Analysis Heatmap```
+```Data Analyst``` ```Data Storytelling``` ```Vizualization``` ```SQL```  ```Postgres``` ```Business Dashboard``` ```Python``` ```R``` ```Jupyter Notebook``` ```User Persona``` ```Machine Learning``` ```Data Science``` ```Customer Attrition``` ```Clevertap``` ```Excel``` ```Google Analytics``` ```Cohort Analysis Heatmap``` ```Recommendation``` ```Natural Language Processing```
 
 ## It's ok if you don't know these things. But, it's absolutely essential that you are interested and willing to learn them.
 
@@ -52,13 +52,13 @@ We are heavy on SQL and Excel for our analysis however recently we’ve started 
 
 In the beginning you will very much be an analyst but eventually you'll come to do the following
 
-- Handle the data life cycle end-to-end from ingestion all the way to consumption
+- Handle the data life cycle end-to-end from ingestion all the way to analysis
 
 - Manage ETL/ELT of data from multiple sources
 
-- Writing automation and testing scripts for various tasks including database managements
+- Write automation and test scripts for various tasks including database management
 
-- Architecting table/database design and data infrastructure when necessary
+- Architect table/database designs and data infrastructure when necessary
 
 **What You Can Expect Soon**
 
@@ -66,7 +66,7 @@ We’re currently on a semi-traditional data warehousing architecture but are in
 
 **As a data engineer in Fave you'll experience the following buzzwords and more**
 
-```Data Engineer``` ```AWS``` ```Data Warehousing``` ```Data Lake``` ```SQL```  ```Postgres``` ```Redshift``` ```GCP``` ```Python``` ```Automation``` ```Jupyter Notebook``` ```Benchmarking``` ```Streaming/Batch Processing``` ```ETL/ELT``` ```Hevo Data``` ```APIs``` ```Data Mining``` ```Data Cleansing``` ```S3``` ```Kinesis``` ```Redshift Spectrum``` ```Ingestion```
+```Data Engineer``` ```AWS``` ```Data Warehousing``` ```Data Lake``` ```SQL```  ```Postgres``` ```Redshift``` ```GCP``` ```Python``` ```Automation``` ```Apache``` ```Benchmarking``` ```Stream/Batch Processing``` ```ETL/ELT``` ```Hevo Data``` ```APIs``` ```Data Mining``` ```Data Cleansing``` ```S3``` ```Kinesis``` ```Redshift``` ```Ingestion``` ```Glue``` ```Spark``` ```Data Wrangling``` ```DevOps```
 
 ## Don't worry, the engineer in our team didn't know most of the things up there. But if you're interested and willing to show that interest in your work, you're pretty much who we're looking for.
 
@@ -85,7 +85,7 @@ The salary like any other job depends on your experience and what you can bring 
 **Engineer**
 - Python
 - API Development
-- Data Science or Data Engineering/AI experiences (Bonus)
+- Data Science/AI or Data Engineering experiences (Bonus)
 
 # FAQ & Misc
 
@@ -93,7 +93,7 @@ The salary like any other job depends on your experience and what you can bring 
 - Jobs are opened for both local and foreign talents
 - There are currently five people in the team, we're only hiring **two** for now
 - Work culture? Check out LinkedIn posts by some of the Fave peeps ([Elvish](https://www.linkedin.com/in/elvish-sew-poi-ling-%E8%90%A7%E7%90%A3%E9%9C%96-6a5a6627/detail/recent-activity/shares/)) ([Chen Chow](https://www.linkedin.com/in/chyeoh/detail/recent-activity/shares/)) ([Ian](https://www.linkedin.com/in/sufianrosli/detail/recent-activity/shares/)) ([Audra](https://www.linkedin.com/in/audrapakalnyte/detail/recent-activity/shares/)) ([Mary](https://www.linkedin.com/in/maryjaneolores/detail/recent-activity/shares/))
-- The age of the team has a Mode of 25, Median of 25 and Mean of 27
+- The age of the team has a Mode of 25, Median of 25 and Mean of 27 🙃
 - We work hard and play extra hard
 - We are called FBI
 
