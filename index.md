@@ -46,7 +46,9 @@ We are heavy on SQL and Excel for our analyses however recently we’ve started 
 
 ## It's ok if you don't know these things. But, it's absolutely essential that you are interested and willing to learn them.
 
-[I WANT TO BE AN ANALYST](/interested){: class="cta"}
+<!-- [I WANT TO BE AN ANALYST](/interested){: class="cta"} -->
+
+[APPLICATIONS CLOSED](/interested){: class="cta"}
 
 **Engineer**
 
@@ -70,7 +72,9 @@ We’re currently on a semi-traditional data warehousing architecture but are in
 
 ## Don't worry, the engineer in our team didn't know most of the things up there. But if you're interested and willing to show that interest in your work, you're pretty much who we're looking for.
 
-[I WANT TO BE AN ENGINEER](/interested){: class="cta"}
+<!-- [I WANT TO BE AN ENGINEER](/interested){: class="cta"} -->
+
+[APPLICATIONS CLOSED](/interested){: class="cta"}
 
 # Salary
 
@@ -90,14 +94,17 @@ The salary like any other job depends on your experience and what you can bring 
 # FAQ & Misc
 
 - Fresh graduates are welcomed to apply
-- Jobs are opened for both local and foreign talents
+- Jobs are opened for both local and foreign talents (we provide visa)
+- **NOT** open for remote workers
 - There are currently five people in the team, we're only hiring **two** for now
 - Work culture? Check out LinkedIn posts by some of the Fave peeps ([Elvish](https://www.linkedin.com/in/elvish-sew-poi-ling-%E8%90%A7%E7%90%A3%E9%9C%96-6a5a6627/detail/recent-activity/shares/)) ([Chen Chow](https://www.linkedin.com/in/chyeoh/detail/recent-activity/shares/)) ([Ian](https://www.linkedin.com/in/sufianrosli/detail/recent-activity/shares/)) ([Audra](https://www.linkedin.com/in/audrapakalnyte/detail/recent-activity/shares/)) ([Mary](https://www.linkedin.com/in/maryjaneolores/detail/recent-activity/shares/))
 - The age of the team has a Mode of 25, Median of 25 and Mean of 27 🙃
 - We work hard and play extra hard
 - We are called FBI
 
-[JOIN FAVE NOW](/interested){: class="cta"}
+<!-- [JOIN FAVE NOW](/interested){: class="cta"} -->
+
+[APPLICATIONS CLOSED](/interested){: class="cta"}
 
 ![FBI](/assets/images/fbiii.png)
 
