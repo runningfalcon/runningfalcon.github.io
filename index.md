@@ -48,7 +48,7 @@ We are heavy on SQL and Excel for our analyses however recently we’ve started 
 
 <!-- [I WANT TO BE AN ANALYST](/interested){: class="cta"} -->
 
-[APPLICATIONS CLOSED](/interested){: class="cta"}
+[APPLICATIONS CLOSED](/){: class="cta"}
 
 **Engineer**
 
@@ -74,7 +74,7 @@ We’re currently on a semi-traditional data warehousing architecture but are in
 
 <!-- [I WANT TO BE AN ENGINEER](/interested){: class="cta"} -->
 
-[APPLICATIONS CLOSED](/interested){: class="cta"}
+[APPLICATIONS CLOSED](/){: class="cta"}
 
 # Salary
 
@@ -104,7 +104,7 @@ The salary like any other job depends on your experience and what you can bring 
 
 <!-- [JOIN FAVE NOW](/interested){: class="cta"} -->
 
-[APPLICATIONS CLOSED](/interested){: class="cta"}
+[APPLICATIONS CLOSED](/){: class="cta"}
 
 ![FBI](/assets/images/fbiii.png)
 
